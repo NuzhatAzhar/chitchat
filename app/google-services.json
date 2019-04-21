@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291203517195",
+    "firebase_url": "https://chat-cd538.firebaseio.com",
+    "project_id": "chat-cd538",
+    "storage_bucket": "chat-cd538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291203517195:android:e2865a230e349b61",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291203517195-s15qgtdd3qos12o54eqid5q4leeu9hn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxnnTQvykfU2UuCMJPdesYB9XdG6Wm4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291203517195-s15qgtdd3qos12o54eqid5q4leeu9hn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
